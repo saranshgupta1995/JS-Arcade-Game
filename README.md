@@ -5,7 +5,7 @@ This game is scripted in *JavaScript*, the source files of which are located in 
 
 To Play
 =======
-Open **index.html** from your favorite updated web browser.
+Open **https://saranshgupta1995.github.io/JS-Arcade-Game/** from your favorite updated web browser.
 
 Introduction
 ==
